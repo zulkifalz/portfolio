@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.devloria.com/sitemap.xml
+Sitemap: https://zulkifalz.github.io/portfolio/sitemap.xml
